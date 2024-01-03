@@ -1,4 +1,4 @@
-import Character from '../app';
+import Character from '../character';
 
 test('Проверяем работу родителя Character', () => {
   const unit = new Character('Иван', 'Bowerman');
